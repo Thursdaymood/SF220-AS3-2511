@@ -1,0 +1,45 @@
+#fonthead{
+  font-family: "Anton","consolas";
+  color: #F2DBCE;
+}
+h1{
+  background-color:#2173A6;
+  text-align: center;
+  width:50%;
+  margin-left: auto;
+  margin-right:auto;
+}
+h2{
+  margin-left: 25%;
+}
+#ma25{
+  margin-left: 25%;
+}
+footer{
+  background-color:#2173A6;
+  text-align: center;
+  width:50%;
+  margin-left: auto;
+  margin-right:auto;
+}
+body{
+  background-color: #144E73;
+}
+nav{
+  margin-left: 42%;
+}
+a{
+  color:#33A67C;
+}
+ul{
+  color:white;
+}
+p{
+  color:whitesmoke;
+}
+dl{
+  color:white;
+}
+dt{
+  color:#F2DBCE;
+}
